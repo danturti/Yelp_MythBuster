@@ -1,5 +1,5 @@
 ###### Run above in https://nbviewer.jupyter.org/github/danturti/Yelp_MythBuster/tree/master/ - for rendering jupyter notebook(.ipynb) if it fails to run
-# Yelp_MythBuster
+# The Yelp MythBuster and Dish Recommender
 
 Yelp is a local area search service which publishes crowd-sourced reviews based on local businesses with a focus on restaurants.
 
